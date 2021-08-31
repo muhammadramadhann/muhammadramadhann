@@ -6,13 +6,6 @@ I'm Currently studying as a second-year student majoring in **Information System
 - 👨🏻‍🎓 I’m currently studying at <a href="https://telkomuniversity.ac.id/">Telkom University</a>
 - 👨🏻‍💻 I’m currently learning about **Web Development**
 - 📫 How to reach me: ramadhannkurniawan@gmail.com
-- ⚡ Fun fact: Learn many things😅
-
-### Certifications  
-- **Dicoding Indonesia** - <a href="https://www.dicoding.com/certificates/MEPJ5374QP3V">Start Programming with Python</a>
-- **Dicoding Indonesia** - <a href="https://www.dicoding.com/certificates/JMZVM8K6OZN9">Learn Basic Data Visualization</a>
-- **Dicoding Indonesia** - <a href="https://www.dicoding.com/certificates/4EXGYRJO1XRL">Basic Web Programming</a>
-- **Dicoding Indonesia** - <a href="https://www.dicoding.com/certificates/2VX3N88MNXYQ">Learn to Create Front-End Web for Beginners</a>
 
 ### Statistics  
 <p align="left">
