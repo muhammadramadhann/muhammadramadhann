@@ -4,7 +4,6 @@ My name is **Muhammad Ramadhan Kurniawan**. I'm highly motivated person, very wi
 
 I'm Currently studying as a second-year student majoring in **Information Systems** with a concentration on Enterprise System Development.  
 - 👨🏻‍🎓 I’m currently studying at <a href="https://telkomuniversity.ac.id/">Telkom University</a>
-- 👨🏻‍💻 I’m currently learning about **Web Development**
 - 📫 How to reach me: ramadhannkurniawan@gmail.com
 
 ### Statistics  
