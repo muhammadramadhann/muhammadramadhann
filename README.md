@@ -1,8 +1,7 @@
 ## Hi👋, Welcome to my github!
 
-My name is **Muhammad Ramadhan Kurniawan**. I'm highly motivated person, very willing to learn new things and have an interest in **Web Development** and **UI/UX Design**.
+My name is **Muhammad Ramadhan**.
 
-I'm Currently studying as a second-year student majoring in **Information Systems** with a concentration on Enterprise System Development.  
 - 👨🏻‍🎓 I’m currently studying at <a href="https://telkomuniversity.ac.id/">Telkom University</a>
 - 📫 How to reach me: ramadhannkurniawan@gmail.com
 
