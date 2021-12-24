@@ -12,6 +12,10 @@ My name is **Muhammad Ramadhan**.
 </a>
 </p>
 
-### Contact  
-- Add your connection with my <a href="https://www.linkedin.com/in/muhammadramadhankurniawan/">LinkedIn</a> 😉
-- Visit my Portfolio <a href="https://www.instagram.com/ramadhanman_id/">Instagram</a> account 😌
+### Reach Me 
+<p id="socialIcons">
+  <a href="https://linkedin.com/in/muhammadramadhankurniawan" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://instagram.com/ramadhanman_id" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+</p>
