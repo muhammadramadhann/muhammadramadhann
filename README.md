@@ -8,7 +8,7 @@ My name is **Muhammad Ramadhan**.
 ### Statistics  
 <p align="left">
 <a href="https://github.com/muhammadramadhann">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadramadhann&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadramadhann&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
 
