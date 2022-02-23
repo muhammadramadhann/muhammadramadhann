@@ -2,7 +2,6 @@
 
 My name is **Muhammad Ramadhan**.
 
-- 👨🏻‍🎓 I’m currently studying at <a href="https://telkomuniversity.ac.id/">Telkom University</a>
 - 📫 How to reach me: ramadhannkurniawan@gmail.com
 
 ### Statistics  
