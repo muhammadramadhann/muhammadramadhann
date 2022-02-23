@@ -2,7 +2,7 @@
 
 My name is **Muhammad Ramadhan**.
 
-- 📫 How to reach me: ramadhannkurniawan@gmail.com
+- 📫 : ramadhannkurniawan@gmail.com
 
 ### Statistics  
 <p align="left">
