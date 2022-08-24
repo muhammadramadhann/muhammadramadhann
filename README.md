@@ -2,7 +2,11 @@
 
 My name is **Muhammad Ramadhan**.
 
-- 📫 : ramadhannkurniawan@gmail.com
+🎯 I'm currently learning React
+
+🔎 Visit my showwcase: https://muhammadramadhann.showwcase.com
+
+📫 Email: ramadhannkurniawan@gmail.com
 
 ### Statistics  
 <p align="left">
