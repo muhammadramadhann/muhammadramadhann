@@ -2,7 +2,7 @@
 
 My name is **Muhammad Ramadhan**.
 
-🎯 I'm currently learning React
+🎯 I'm currently learning MERN stack
 
 🔎 Visit my showwcase: https://muhammadramadhann.showwcase.com
 
