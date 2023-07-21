@@ -2,7 +2,7 @@
 
 My name is **Muhammad Ramadhan**.
 
-🎯 I'm currently learning MERN stack, Java and .NET
+🎯 I'm currently learning Next, Vue, and Java
 
 🔎 Visit my showwcase: https://muhammadramadhann.showwcase.com
 
