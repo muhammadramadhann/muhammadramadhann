@@ -2,9 +2,11 @@
 
 My name is **Muhammad Ramadhan**.
 
-🎯 I'm currently learning Next, Vue, and Java
+🎯 I'm currently learning Next, Vue, .NET and Java 🤯
 
 🔎 Visit my showwcase: https://muhammadramadhann.showwcase.com
+
+😁 Might want to take a look at this: https://dhanman.netlify.app
 
 📫 Email: ramadhannkurniawan@gmail.com
 
