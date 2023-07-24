@@ -11,11 +11,11 @@ My name is **Muhammad Ramadhan**.
 📫 Email: ramadhannkurniawan@gmail.com
 
 ### Statistics  
-<p align="left">
+<div align="left">
 <a href="https://github.com/muhammadramadhann">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadramadhann&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadramadhann&layout=compact&langs_count=16&theme=dracula"/>
 </a>
-</p>
+</div>
 
 ### Reach Me 
 <p id="socialIcons">
