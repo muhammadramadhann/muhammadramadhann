@@ -2,7 +2,7 @@
 
 My name is **Muhammad Ramadhan**.
 
-🎯 I'm currently learning Vue JS and Java 🤯
+🎯 I'm currently learning Vue JS, .NET and Java 🤯
 
 🔎 Visit my showwcase: https://muhammadramadhann.showwcase.com
 
