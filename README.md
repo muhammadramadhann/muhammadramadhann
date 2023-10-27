@@ -1,7 +1,5 @@
 My name is **Muhammad Ramadhan**.
 
-🎯 I'm currently learning C# and Java 🤯
-
 🔎 Visit my showwcase: https://muhammadramadhann.showwcase.com
 
 😁 Might want to take a look at this: https://dhanman.netlify.app
