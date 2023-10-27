@@ -1,5 +1,3 @@
-## Hi👋, Welcome to my github!
-
 My name is **Muhammad Ramadhan**.
 
 🎯 I'm currently learning C# and Java 🤯
